@@ -1,1 +1,2 @@
-1 print('hello python$ git')
+print('hello python$ git')
+print('welcome Github test')

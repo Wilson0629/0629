@@ -26,5 +26,10 @@ namespace C_sharp_test
         {
             label1.Text = "test2";
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            label2.Text = "153";
+        }
     }
 }

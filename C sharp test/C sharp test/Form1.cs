@@ -31,5 +31,15 @@ namespace C_sharp_test
         {
             label2.Text = "153";
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            label2.Text = "22222";
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            label2.Text = "660";
+        }
     }
 }
